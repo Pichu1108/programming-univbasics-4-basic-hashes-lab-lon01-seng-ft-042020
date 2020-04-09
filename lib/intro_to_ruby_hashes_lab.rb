@@ -3,8 +3,8 @@ def new_hash
 end
 
 def my_hash
-  hash {
-    "tom" =   "tommy"
+  hash = {
+    :a => 2
   }
 end
 
