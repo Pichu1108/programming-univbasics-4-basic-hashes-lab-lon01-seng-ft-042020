@@ -4,7 +4,7 @@ end
 
 def my_hash
   hash {
-    :a => 2
+    a: 2
   }
 end
 
